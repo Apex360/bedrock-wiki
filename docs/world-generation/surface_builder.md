@@ -132,7 +132,7 @@ Learn more about scatter features [here](/world-generation/feature-types.html#sc
 		"description": {
 			"identifier": "wiki:scatter_surface_block_feature"
 		},
-		"iterations": 25,
+		"iterations": "math.random(20, 25)",
 		"x": {
 			"extent": [
 				0,
