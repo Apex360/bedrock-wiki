@@ -108,7 +108,7 @@ Learn more about weighted random features [here](/world-generation/feature-types
 				3
 			],
 			[
-				"wiki:cobblestone_feature",//Cobblestone dirt weighs 2
+				"wiki:cobblestone_feature",//Cobblestone weighs 2
 				2
 			]
 		]
